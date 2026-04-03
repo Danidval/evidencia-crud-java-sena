@@ -3,7 +3,7 @@
 -- Sistema de Gestión de Inventario
 -- CRUD Java + MySQL + JOptionPane
 -- =============================================
--- Autor: [Tu nombre]
+-- Autor: Danid_Vallejos
 -- Fecha: Abril 2026
 -- Base de Datos: db_techpos_v1
 -- =============================================
